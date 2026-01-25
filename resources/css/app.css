@@ -1,0 +1,10 @@
+#statusPolarAreaChart {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
